@@ -72,4 +72,6 @@ Store your mnemonic code securely for account recovery.
   
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/img/notification.webp" alt="Dark Dock Register" style="max-width: 100%;"></a>
 
-Update:  06/26/2025 09-04 url is live and functioning properly
+
+
+Update:  04.07.2025 04:37 Corrected broken integration guide links

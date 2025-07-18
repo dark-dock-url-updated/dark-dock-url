@@ -78,4 +78,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update: Fixed non-working link
+
+
+Update: url is up and running

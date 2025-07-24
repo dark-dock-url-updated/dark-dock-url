@@ -82,4 +82,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  07/21/2025 22-00-34 url is now responsive and live
+
+
+Update: Fixed broken link, now reachable
